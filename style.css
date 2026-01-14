@@ -1,0 +1,42 @@
+body{
+  font-family: sans-serif;
+  background: #a82c41;
+  color: #453e3f;
+  text-align: center;
+}
+
+header{
+    background-color: #8bf4f7;
+    padding: 15px;
+    border: 3px dashed white;
+}
+
+
+nav{
+    padding: 15px;
+}
+
+a{
+    color: #ff0000;
+    background-color: #f0dcda;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+main{
+    font-size: 25px;
+}
+
+
+footer{
+    background-color: #c70021;
+    padding: 15px;
+    border: 3px dashed white;
+    font-size: 25px;
+}
+
+ol{
+    text-align: left;
+}
+/*Зроби цей сайт красивим 😉*/
